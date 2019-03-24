@@ -1,2 +1,3 @@
 debian/desktop/*	/usr/share/xsessions
 debian/icons/*		/usr/share/icons
+dwm usr/bin

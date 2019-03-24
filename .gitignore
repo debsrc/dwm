@@ -1,1 +1,14 @@
-.pc
+/*.o
+/.pc
+/config.h
+/debian/.debhelper/
+/debian/debhelper-build-stamp
+/debian/debhelper-build-stamp
+/debian/dwm
+/debian/dwm.debhelper.log
+/debian/dwm.postinst.debhelper
+/debian/dwm.postrm.debhelper
+/debian/dwm.prerm.debhelper
+/debian/dwm.substvars
+/debian/files
+/dwm

@@ -1,3 +1,9 @@
+dwm (6.2-0+20190324) UNRELEASED; urgency=medium
+
+  * Patch: config customization
+
+ -- Danil Kutkevich <danil@kutkevich.org>  Sun, 24 Mar 2019 20:44:26 +0300
+
 dwm (6.1-5) unstable; urgency=medium
 
   * debian/control:
